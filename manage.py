@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#/home/sarthak/Website/CurioCity/curiocity-test/vemv/bin/python
 import os
 import sys
 

@@ -19,6 +19,8 @@ def medhini(request):
 	return render(request, 'cc101/medhini.html') 
 # Create your views here.
 
+def sarthak(request):
+	return render(request, 'sarthak.html') 
 
 def rohit(request):
     return render(request,'rohit.html')

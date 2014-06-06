@@ -15,5 +15,6 @@ urlpatterns = patterns('',
     url(r'^lab/$', views.cclab_view, name='cclab_view'),
     url(r'^rohit/$', views.rohit, name='rohit'),
 	url(r'^gp/$', views.gp, name='gp'),
-    url(r'^medhini/$', views.medhini, name='medhini')
+    url(r'^medhini/$', views.medhini, name='medhini'),
+    url(r'^sarthak/$', views.sarthak, name='Sarthak'),
 )
